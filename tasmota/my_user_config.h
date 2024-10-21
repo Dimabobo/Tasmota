@@ -796,7 +796,7 @@
 //    #define USE_DISPLAY_MAX7219_MATRIX           // [DisplayModel 19] Enable MAX7219 8x8 Matrix Display
 
 // -- Universal Display Driver ---------------------------------
-// #define USE_UNIVERSAL_DISPLAY                   // New universal display driver for both I2C and SPI
+ #define USE_UNIVERSAL_DISPLAY                   // New universal display driver for both I2C and SPI
     #define MAX_TOUCH_BUTTONS 16                 // Virtual touch buttons
 
 // -- SPI sensors ---------------------------------
